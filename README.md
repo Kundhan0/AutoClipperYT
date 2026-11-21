@@ -123,6 +123,6 @@ AutoClipperYT is a **complete architectural overhaul** I built on top of that co
 
 ---
 
-## 📄 License
+## 🛡️ Disclaimer
 
-MIT © 2026 [Kundhan](https://github.com/Kundhan0)
+This software is developed for personal, educational, and content creation workflows. Users are responsible for adhering to YouTube's Terms of Service and respecting original copyright when processing and uploading third-party media. Provided "as is" without warranties of any kind.
